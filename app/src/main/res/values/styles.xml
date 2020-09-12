@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="FullScreen" parent="Theme.AppCompat.DayNight">
+        <item name="android:colorPrimary">@color/md500</item>
+        <item name="android:colorPrimaryDark">@color/md700</item>
+        <item name="android:colorAccent">@color/mda200</item>
+        <item name="android:navigationBarColor">@null</item>
+        <item name="android:windowBackground">@null</item>
+<!--        <item name="windowNoTitle">true</item>-->
+<!--        <item name="windowActionBar">false</item>-->
+<!--        <item name="android:windowFullscreen">true</item>-->
+<!--        <item name="android:windowContentOverlay">@null</item>-->
+    </style>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="md300">#64B5F6</color>
+    <color name="md500">#2196F3</color>
+    <color name="md600">#1E88E5</color>
+    <color name="md700">#1976D2</color>
+    <color name="md800">#1565C0</color>
+    <color name="md900">#0D47A1</color>
+    <color name="mda200">#448AFF</color>
+    <color name="mda400">#2979FF</color>
+
+    <color name="md500p">#673AB7</color>
+    <color name="md700p">#512DA8</color>
+    <color name="mda200p">#7C4DFF</color>
+
+    <color name="md500o">#FF9800</color>
+    <color name="md700o">#F57C00</color>
+    <color name="mda200o">#FFAB40</color>
+
+    <color name="main_top">#388ed7</color>
+    <color name="main_top_celect">#2b82ca</color>
+    <color name="main_title">#35a4f3</color>
+    <color name="main_bottom_onTouch">#3088CC</color>
+
+    <color name="main_normal">#eeeeee</color>
+    <color name="main_light">#ffffff</color>
+
+    <color name="home_gray">#888888</color>
+    <color name="home_gray_light">#aaaaaa</color>
+
+    <color name="bottombar">#77000000</color>
+    <color name="bottombar_dark">#AA000000</color>
+    <color name="button_normal">#22FFFFFF</color>
+    <color name="button_press">#55FFFFFF</color>
+    <color name="test">#ff7b7b7b</color>
+
+
+
+</resources>
